@@ -1,0 +1,1 @@
+0 0 * * * /usr/bin/python3 /opt/Siphon-CVE/siphons/nvd_vacuum.py | curl -X POST -d @- https://discord.com/api/webhooks/Siphon-Bridge
